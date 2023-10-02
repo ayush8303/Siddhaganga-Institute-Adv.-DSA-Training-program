@@ -1,4 +1,5 @@
 *.bin
 *.exe
 *.cph
-.gitignore
+*.gitignore
+README.md
