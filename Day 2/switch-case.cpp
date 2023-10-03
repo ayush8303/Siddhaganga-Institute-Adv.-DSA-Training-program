@@ -13,13 +13,13 @@ int main()
 
   case 1: // if day==1
     cout << "Monday" << endl;
-
+    break;
   case 2: // if day==2
     cout << "Tuesday" << endl;
-
+    break;
   case 3: // if day==3
     cout << "Wednesday" << endl;
-
+    break;
   case 4: // if day==4
     cout << "Thrusday" << endl;
     break;
