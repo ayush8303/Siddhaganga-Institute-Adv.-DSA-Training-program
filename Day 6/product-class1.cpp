@@ -24,7 +24,7 @@ int main()
 {
 
   Product camera;
-  // cout << (&Product) << endl;  //classes are stored in any memory
+  // cout << (&camera) << endl;  //classes are stored in any memory
   cout << sizeof(Product) << endl; // 4+100+4+4 -> includes size of all the attributes
   camera.mrp = 100;
   camera.selling_price = 80;
