@@ -10,7 +10,9 @@ sample input: candyType = [1,1,2,2,3,3]
 
 sample output: 3
 
-Explanation: Alice can only eat 6 / 2 = 3 candies. Since there are only 3 types, she can eat one of each type.
+Explanation:
+
+Alice can only eat 6 / 2 = 3 candies. Since there are only 3 types, she can eat one of each type.
 
 Constraints:
 
@@ -35,10 +37,15 @@ sample input: nums = [1, 2, 3, 4, 5]
 sample output: 33
 
 Explanation:
+
 We take 1 and 2 out to get [3, 4, 5, 3]
+
 We take 3 and 3 out to get [4, 5, 6]
+
 We take 4 and 5 out to get [6, 9]
+
 We take 6 and 9 out to get [15]
+
 The sum is 33 = 1 + 2 + 3 + 3 + 4 + 5 + 6 + 9
 
 Constraints:
@@ -52,9 +59,11 @@ Constraints:
 Given a string s, find the first non-repeating character in it and print its index. If it does not exist, print -1.
 
 sample input: s = "geeksforgeeks"
+
 sample output: 5
 
 sample input: s = "aabb"
+
 sample output: -1
 
 ---
