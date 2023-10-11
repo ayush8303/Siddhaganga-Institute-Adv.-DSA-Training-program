@@ -15,8 +15,11 @@ Explanation: Alice can only eat 6 / 2 = 3 candies. Since there are only 3 types,
 Constraints:
 
 n == candyType.length
+
 2 <= n <= 10^4
+
 n is even.
+
 -10^5 <= candyType[i] <= 10^5
 
 ---
