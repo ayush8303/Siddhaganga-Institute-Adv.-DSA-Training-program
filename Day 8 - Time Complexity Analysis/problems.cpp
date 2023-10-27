@@ -35,30 +35,6 @@ void fun2(int n)
   }
   cout << count << endl;
 }
-
-class Solution
-{
-public:
-  string LowerToUpper(string s)
-  {
-    string ans = "";
-    int n = s.length();
-    for (int i = 0; i < n;)
-    {
-      if (i < n - 1 and s[i] == s[i + 1])
-      {
-        ans.push_back(s[i] - 'a' + 'A');
-        i += 2;
-      }
-      else
-      {
-        ans.push_back(s[i]);
-        i++;
-      }
-    }
-    return ans;
-  }
-};
 int main()
 {
 
