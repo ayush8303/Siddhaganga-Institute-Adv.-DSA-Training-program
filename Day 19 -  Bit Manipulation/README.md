@@ -29,3 +29,5 @@ sample output: 2 (binary representation of 9 is 1001)
 #### 4. [ Single number II ](https://leetcode.com/problems/single-number/description/)
 
 #### 5. [ Single number III ](https://leetcode.com/problems/single-number-iii/)
+
+#### 6. [ Modular Exponentiation for large numbers ](https://practice.geeksforgeeks.org/problems/modular-exponentiation-for-large-numbers5537/1)
