@@ -27,3 +27,17 @@ Output: 4
 ---
 
 #### 3. [ Vacation ](https://atcoder.jp/contests/dp/tasks/dp_cs)
+
+---
+
+#### 4. [ H - Grid 1 ](https://atcoder.jp/contests/dp/tasks/dp_h)
+
+---
+
+#### 5. [ K - Stones ](https://atcoder.jp/contests/dp/tasks/dp_k)
+
+---
+
+#### 6. [ L - Deque ](https://atcoder.jp/contests/dp/tasks/dp_l)
+
+---
