@@ -60,7 +60,9 @@ Input:
 N = 3
 
 14 11 14
+
 2 14 3
+
 11 5 10
 
 Output: 10 = 2 + 5 + 3
@@ -76,17 +78,25 @@ Output: 10 = 2 + 5 + 3
 We are given the prices of K products over N days, and we want to buy each product exactly once. However, we are allowed to buy at most one product in a day. What is the minimum total price?
 
 Input:
+
 K=3, N = 8
+
 product[0] - 6 9 5 2 8 9 1 6
+
 product[1] - 8 2 6 2 7 5 7 2
+
 product[2] - 5 3 9 7 3 5 1 4
 
 Output: 5
+
 The Optimal Selection is:
 
 product 0 on day 3 at price 2,
+
 product 1 on day 1 at price 2,
+
 product 2 on days 6 at price 1.
+
 which gives us the total of 5.
 
 ---
