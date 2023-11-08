@@ -12,6 +12,6 @@ Constraints:
 
 ---
 
-#### 9. [ Game Routes ](https://cses.fi/problemset/task/1681)
+#### 2. [ Game Routes ](https://cses.fi/problemset/task/1681)
 
 ---
