@@ -15,3 +15,11 @@ Constraints:
 #### 2. [ Game Routes ](https://cses.fi/problemset/task/1681)
 
 ---
+
+#### 3. [ Special paths ](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/special-path-b3ac37d0/?purpose=signup&source=problem-page&update=google)
+
+---
+
+#### 4. [ MST - Minimum Spanning Tree ](https://www.spoj.com/problems/MST/)
+
+---
