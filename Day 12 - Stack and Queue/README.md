@@ -10,11 +10,7 @@
 
 ---
 
-#### 4. [ First non-repeating character in a stream ](https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)
-
----
-
-#### 5. [ Maximum of all subarrays of size k ](https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)
+#### 4. [ Maximum of all subarrays of size k ](https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)
 
 ---
 
