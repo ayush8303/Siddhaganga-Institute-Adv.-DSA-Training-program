@@ -28,3 +28,7 @@ sample output: 3 (between pair 20 and 17)
 ---
 
 #### 4. [ Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
+
+---
+
+#### 5. [ EKO](https://www.spoj.com/problems/EKO/)
