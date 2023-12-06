@@ -1,4 +1,4 @@
-#### 1. [ Pre-order Traversal ](hhttps://practice.geeksforgeeks.org/problems/preorder-traversal/1)
+#### 1. [ Pre-order Traversal ]( https://practice.geeksforgeeks.org/problems/preorder-traversal/1 )
 
 #### 2. [ Post-order Traversal ](https://practice.geeksforgeeks.org/problems/postorder-traversal/1)
 
