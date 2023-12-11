@@ -12,7 +12,7 @@ int main()
   for (int i = 1; i < (1 << n); i++)
   {
     int lcm = 1;
-    for (int j = 0; j < m; j++)
+    for (int j = 0; j < n; j++)
     { // indexes
       int bit = i & (1 << j);
       if (bit > 0)
