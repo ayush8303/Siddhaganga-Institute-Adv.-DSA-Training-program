@@ -33,8 +33,11 @@ Constraints:
 Given an array arr, return the number of integers between l and r, inclusive, that are divisible by at least one of the elements in arr.
 
 sample input:
+
 l= 579000, r= 987654
+
 N = 2 (size of array)
+
 a= [1, 2]
 
 sample output: 408655
@@ -54,9 +57,11 @@ Constraints:
 #### 2. Count Prime
 
 Given an integer n, return the number of prime numbers that are strictly less than n.
+
 Constraints : n <= 10^6
 
 sample input:
+
 n = 10
 
 sample output: 4
@@ -82,6 +87,7 @@ Input: n= 5
 Output: 1
 
 Explanation:
+
 In this case only pair (l, r) suits us - (2,3), because 2+3=5 , 5 is prime.
 
 ---
