@@ -100,3 +100,37 @@ product 2 on days 6 at price 1.
 which gives us the total of 5.
 
 ---
+
+#### 11. [ Alphacode ](https://www.spoj.com/problems/ACODE/)
+
+---
+
+#### 12. Subset Sum Problem
+
+Given a integer SUM and an array of non-negative integers. Determine if subset of array exists with sum equal SUM.
+
+Constraints :
+
+N <= 1000
+
+SUM <= 1000
+
+Sample input =
+
+N = 5
+
+SUM = 12
+
+array [ ] = [2, 7, 4, 15, 19]
+
+Sample output : 0
+
+Sample input =
+
+N = 5
+
+SUM = 11
+
+array [ ] = [2, 7, 4, 15, 19]
+
+Sample output : 1 ({7,4})
