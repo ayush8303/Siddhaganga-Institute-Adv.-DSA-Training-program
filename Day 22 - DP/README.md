@@ -135,10 +135,10 @@ array [ ] = [2, 7, 4, 15, 19]
 
 Sample output : 1 ({7,4})
 
-#### 12. [ Minimum XOR Sum of Two Arrays ](https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/)
+#### 13. [ Minimum XOR Sum of Two Arrays ](https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/)
 
 ---
 
-#### 13. [ Matching ](https://atcoder.jp/contests/dp/tasks/dp_o)
+#### 14. [ Matching ](https://atcoder.jp/contests/dp/tasks/dp_o)
 
 ---
