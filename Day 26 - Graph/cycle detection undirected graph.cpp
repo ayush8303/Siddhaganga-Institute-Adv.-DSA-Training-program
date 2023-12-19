@@ -46,9 +46,9 @@ int main()
     }
   }
   if (cycle)
-    cout << "Cycle found" << endl;
+    cout << "Cycle found." << endl;
   else
-    cout << "graph is tree" << endl;
+    cout << "Graph is forest." << endl;
 
   return 0;
 }

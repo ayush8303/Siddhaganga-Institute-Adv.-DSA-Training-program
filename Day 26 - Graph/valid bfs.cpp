@@ -8,20 +8,19 @@ bool cmp(int x, int y)
 {
   return ind[x] < ind[y];
 }
-
 vector<int> bfs(int n)
 {
   vector<int> ordering; // bfs traversal
-  vector<int> visited(n + 1);
+  vector<bool> visited(n + 1, false);
   queue<int> q;
   q.push(1);
   visited[1] = 1;
   while (!q.empty())
   {
     int u = q.front();
-    ordering.push_back(u);
     q.pop();
-    for (int &nbr : adj[u])
+    ordering.push_back(u);
+    for (int nbr : adj[u])
     {
       if (visited[nbr] == 0)
       {
@@ -29,7 +28,7 @@ vector<int> bfs(int n)
         q.push(nbr);
       }
     }
-  };
+  }
   return ordering;
 }
 
@@ -49,10 +48,8 @@ int main()
   }
   vector<int> a(n);
   for (int i = 0; i < n; i++)
-  {
     cin >> a[i];
-  }
-  vector<int> ind(n + 1);
+
   for (int i = 0; i < n; i++)
   {
     ind[a[i]] = i;
@@ -62,9 +59,11 @@ int main()
     sort(adj[i].begin(), adj[i].end(), cmp);
   }
   if (bfs(n) == a)
-    cout << "Yes";
+  {
+    cout << "YES";
+  }
   else
-    cout << "No";
+    cout << "NO";
 
   return 0;
 }
