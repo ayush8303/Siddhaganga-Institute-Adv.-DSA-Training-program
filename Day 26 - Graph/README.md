@@ -20,14 +20,22 @@ Constraints:
 
 ---
 
-#### 4. [ Game Routes ](https://cses.fi/problemset/task/1681)
+#### 4. [ Course Schedule II ](https://leetcode.com/problems/course-schedule-ii/)
 
 ---
 
-#### 5. [ Special paths ](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/special-path-b3ac37d0/?purpose=signup&source=problem-page&update=google)
+#### 5. [ Game Routes ](https://cses.fi/problemset/task/1681)
 
 ---
 
-#### 6. [ MST - Minimum Spanning Tree ](https://www.spoj.com/problems/MST/)
+#### 6. [ Special paths ](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/special-path-b3ac37d0/?purpose=signup&source=problem-page&update=google)
+
+---
+
+#### 7. [ MST - Minimum Spanning Tree ](https://www.spoj.com/problems/MST/)
+
+---
+
+#### 7. [ Make It Connected ](https://codeforces.com/problemset/problem/1095/F)
 
 ---
