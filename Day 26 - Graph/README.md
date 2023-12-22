@@ -36,6 +36,6 @@ Constraints:
 
 ---
 
-#### 7. [ Make It Connected ](https://codeforces.com/problemset/problem/1095/F)
+#### 8. [ Make It Connected ](https://codeforces.com/problemset/problem/1095/F)
 
 ---
