@@ -26,7 +26,7 @@ sample output: 2 (binary representation of 9 is 1001)
 
 #### 3. [ Single number I ](https://leetcode.com/problems/single-number/description/)
 
-#### 4. [ Single number II ](https://leetcode.com/problems/single-number/description/)
+#### 4. [ Single number II ](https://leetcode.com/problems/single-number-ii/description/)
 
 #### 5. [ Single number III ](https://leetcode.com/problems/single-number-iii/)
 

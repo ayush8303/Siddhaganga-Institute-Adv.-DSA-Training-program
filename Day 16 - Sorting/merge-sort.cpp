@@ -57,7 +57,7 @@ void merge_sort(vector<int> &arr, int s, int e)
   // left half [s....mid]
   merge_sort(arr, s, mid);
 
-  // right half [s....mid]
+  // right half [mid+1....e]
   merge_sort(arr, mid + 1, e);
 
   // merge
